@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Postman collection" tests="4" time="1.574">
+  <testsuite name="GET with URL Params" id="ebeadf17-de53-454b-a9de-fef00322d959" timestamp="2019-05-08T10:40:02.637Z" classname="JUnitXmlReporter.constructor" tests="2" failures="0" errors="0" time="0.525">
+    <testcase name="Status code is 200" time="0.525"/>
+    <testcase name="Your test name" time="0.525"/>
+  </testsuite>
+  <testsuite name="POST with JSON body" id="ca5b6fff-1213-48a2-9ac5-f98d159345eb" timestamp="2019-05-08T10:40:02.637Z" classname="JUnitXmlReporter.constructor" tests="1" failures="0" errors="0" time="0.392">
+    <testcase name="Status code is 200" time="0.392"/>
+  </testsuite>
+  <testsuite name="PUT with form data" id="c455400d-5fe5-485e-acbe-4463ff6bc427" timestamp="2019-05-08T10:40:02.637Z" classname="JUnitXmlReporter.constructor" tests="2" failures="0" errors="0" time="0.367">
+    <testcase name="Status code is 200" time="0.367"/>
+    <testcase name="Test form data" time="0.367"/>
+  </testsuite>
+  <testsuite name="DELETE request" id="d290adb0-099c-45ca-99d7-1b928aae5bce" timestamp="2019-05-08T10:40:02.637Z" classname="JUnitXmlReporter.constructor" tests="1" failures="0" errors="0" time="0.290">
+    <testcase name="Status code is 200" time="0.290"/>
+  </testsuite>
+</testsuites>
